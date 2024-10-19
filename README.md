@@ -1,3 +1,3 @@
-## Hi there 👋
+# Hi there 👋
 
-insert description
+We are an F1 in Schools team from the Indian High School, Dubai
